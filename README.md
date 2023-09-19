@@ -4,6 +4,7 @@
 <i align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&background=FF9F6A00&center=true&vCenter=true&width=435&lines=Young+programmer+on+Python%F0%9F%90%8D;From+mother+Russia" alt="Typing SVG" /></a>
 </i>
+<h3></h3>
 Here's some facts about me:
  
 - Only self-study.

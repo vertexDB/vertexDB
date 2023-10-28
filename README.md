@@ -9,6 +9,6 @@ Here's some facts about me:
  
 - Only self-study.
 - Using Renpy, I'm writing a mod for the game.
-- I have been interested in IT for more than 4 years.
+- In IT for more than 4 years.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h4 align="center">Contact with me on TG: @isvxdb<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="20"/></h4>
